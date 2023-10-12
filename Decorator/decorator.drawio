@@ -1,0 +1,162 @@
+<mxfile host="65bd71144e">
+    <diagram id="Y6MHMIKgVX63Y0KQKVYK" name="Page-1">
+        <mxGraphModel dx="505" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Decorator Pattern - LLD&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="5" y="25" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="5" y="165" width="240" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="210" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="F1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="85" y="245" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="F1 + F2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="325" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="F1 + F2 + F3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="95" y="370" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Each object can be wrapped inside another object. which can addon to the features present in the inner object." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="244" y="105" width="170" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Use cases:&amp;nbsp;&lt;br&gt;&lt;br&gt;1.&amp;nbsp; Pizza Shop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="450" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="75" y="530" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Base Pizza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="610" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Toppings can be a addon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="550" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="179" y="582.5" width="235" height="235" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="625" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="base" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="660" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Extra veggies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="265" y="745" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Cheeseburst" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="788" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="2. Coffee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="855" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Decaf(base)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="920" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Toppings can be a addon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="231" y="910" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="942.5" width="235" height="235" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="241" y="985" width="150" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Decaf" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="271" y="1020" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Creame" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="286" y="1105" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Soy Milk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="281" y="1148" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Why Decorator ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="1270" width="125" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="To Save ourselves from class explosion" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="41" y="1310" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="As there are multiple components that can be mixed and matched&lt;br&gt;&amp;nbsp;with each other hence to represent all combinations through a class&lt;br&gt;&amp;nbsp;would not be a good idea&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="41" y="1350" width="390" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Imlementation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="1490" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Base Pizza Interface" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="179" y="1520" width="181" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="cost();" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="1565" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=none;html=1;" edge="1" parent="1" source="39">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="200" y="1670" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="margherita" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="41" y="1720" width="159" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="cost()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="39">
+                    <mxGeometry x="24" y="45" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;" edge="1" parent="1" source="41">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="290" y="1670" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="Veggie delight" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="265" y="1720" width="145" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="cost();" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="1765" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="IS A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="175" y="1685" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="IS A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="295" y="1675" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=none;html=1;" edge="1" parent="1" source="49">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="370" y="1585" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="" style="edgeStyle=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="49" target="37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Topping Decorator Interface" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="1520" width="180" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="has a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="1555" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="IS a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="1615" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="As you can have multiple toppings so toppings&lt;br&gt;&amp;nbsp;decorator is a Pizza and it also has a Pizza" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="345" y="1670" width="270" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" style="edgeStyle=none;html=1;" edge="1" parent="1" source="57">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="660" y="1660" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="Extra Veggies" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="1730" width="160" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="BasePizza* pizza;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="57">
+                    <mxGeometry y="35" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="cost(){&lt;br&gt;pizza.cost + 10&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="57">
+                    <mxGeometry x="10" y="70" width="100" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
